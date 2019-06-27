@@ -1,0 +1,5 @@
+Patient ID: asd
+Weight: asd
+Date: asd
+
+Time						2Red(°C)					Plain(°C)					White(°C)

@@ -1,0 +1,5 @@
+Patient ID: tttttttttttt
+Weight: t
+Date: tt
+
+Time						eRt20Red(°C)					Plain(°C)					White(°C)
